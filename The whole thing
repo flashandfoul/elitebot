@@ -1,2 +1,11 @@
+//elitebot program. ggKroegs, ggDooles, aaCookies, jjAdcoxx, aaLii
 
-//This is a comment
+public class elitebot{
+
+  //main method
+  public static void main(String [] args){
+  }
+  
+  //other method
+  public method x
+}
